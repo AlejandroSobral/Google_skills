@@ -12,4 +12,14 @@ This repository serves as a technical log of my journey through the Google Cloud
   </div>
 </div>
 
-[Manage Kubernetes in Google Cloud](https://www.skills.google/course_templates/783?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D) - Focuses on GKE clusters, pod management, and logging.
+
+## Manage Kubernetes in Google Cloud
+
+[Course Link](https://www.skills.google/course_templates/783?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D) - Focuses on GKE clusters, pod management, and logging.
+
+[Badge](https://www.credly.com/badges/e05696b1-7efd-4dc0-81cf-ef2dfa6b2baa/public_url)
+
+
+## Implement DevOps Workflows in Google Cloud
+
+[Course Link](https://www.skills.google/course_templates/716?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=67179019)
